@@ -1992,3 +1992,7 @@ BUG FIXES:
 ## 0.1.0 (June 21, 2017)
 
 NOTES:
+
+## 2.3.4 (release prep — placeholder)
+
+* Placeholder entry created by the Release Preparation Agent skeleton on 2026-09-22T09:38:17+00:00 on behalf of 6430084PRR. LLM-generated changelog and CVE scanning are not implemented yet.
