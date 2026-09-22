@@ -1992,3 +1992,7 @@ BUG FIXES:
 ## 0.1.0 (June 21, 2017)
 
 NOTES:
+
+## Unreleased (release prep — placeholder)
+
+* Placeholder entry created by the Release Preparation Agent skeleton (verification run).
