@@ -1,9 +1,12 @@
-## 5.13.0 (Unreleased)
+## 5.13.0 (September 22, 2026)
 
-FEATURES: 
+FEATURES:
 
 * **New Resources**: Add support for TPM Auth backend with `vault_identity_tpm`, `vault_identity_tpm_group`, `vault_tpm_auth_backend_config`, `vault_tpm_auth_backend_role` resources. Requires Vault Enterprise 2.2.0 or later. ([#2979](https://github.com/hashicorp/terraform-provider-vault/pull/2979))
 
+IMPROVEMENTS:
+
+* Magic strings to constants update ([#5](https://github.com/vijayavelsekar/terraform-provider-vault/pull/5))
 
 ## 5.12.0 (September 17, 2026)
 
